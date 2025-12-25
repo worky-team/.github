@@ -19,36 +19,3 @@ Key features include:
 * Real-time notifications
 * Admin dashboard for user verification and moderation
 * Mobile application for on-the-go access
-
----
-
-| Team | Responsibilities |
-|------|-----------------|
-| Owners | Founders, CTO, and tech leads; admin on all repositories |
-| Backend | Backend services and APIs |
-| Frontend | Web and mobile portals |
-| AI / Recommendation | Scoring engine, AI features, analytics |
-| QA / Testing | Staging tests and pull request approvals |
-| DevOps | Deployment, CI/CD, and monitoring |
-| Product / Marketing | Documentation and business strategy (optional) |
-
----
-
-## Proposed Technology Stack
-
-* **Backend:** FastAPI / Nest.js  
-* **Frontend Web:** Next.js + React  
-* **Mobile:** Flutter / React Native  
-* **AI / Machine Learning:** Python, PyTorch, scikit-learn  
-* **Database:** PostgreSQL / MongoDB  
-* **DevOps:** Docker, Kubernetes, GitHub Actions  
-* **Real-time:** WebSockets / Firebase  
-
----
-
-## Documentation
-
-Full documentation including architecture, API references, and UX flows can be found in [`worky-docs`](https://github.com/WORKY-organization/worky-docs).
-
-
-WORKY – Connecting Talent with Opportunity
